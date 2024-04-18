@@ -1,0 +1,10 @@
+.blocktext {
+  width: 130px;
+  height: 30px;
+  .miniText {
+    font-family: "JetBrains Mono", monospace;
+    color: #62D0DF !important;
+    font-size: 22px;
+    font-weight: 700;
+  }
+}

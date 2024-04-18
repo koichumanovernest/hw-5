@@ -1,0 +1,7 @@
+.bgColor{
+  width: 1000px;
+  height: 100vh;
+  background-color: #F4F9E2;
+  position: absolute;
+  z-index: -1;
+}

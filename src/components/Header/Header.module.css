@@ -1,0 +1,30 @@
+.Main_block {
+  width: 90%;
+  height: 80px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .navBar {
+    width: 400px;
+    height: 30px;
+
+    ul {
+      display: flex;
+      list-style: none;
+      justify-content: space-between;
+
+    }
+
+    ul li {
+      cursor: pointer;
+
+    }
+  }
+
+  .buttonComponent {
+    width: 155px;
+    height: 55px;
+  }
+}

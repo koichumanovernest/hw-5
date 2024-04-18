@@ -1,0 +1,34 @@
+.clocl{
+  width: 100%;
+  height: 350px;
+  display: flex;
+  .blockFirst{
+    width: 400px;
+    height: 350px;
+    p{
+      color: var(--font-color);
+      margin-top: 45px;
+      text-align: center;
+    }
+  }
+  .blockSecond{
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+    p{
+      color: var(--font-color);
+      line-height: 30px;
+    }
+    h5{
+      font-weight: 200;
+      color: gray;
+      margin-top: 30px;
+      margin-bottom: 20px;
+      cursor: pointer;
+    }
+  }
+}

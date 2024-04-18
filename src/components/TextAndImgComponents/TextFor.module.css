@@ -1,0 +1,66 @@
+.BorderMainAnd {
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+
+.flexBlock {
+  display: flex;
+  gap: 20px;
+
+  .blockDive {
+    width: 450px;
+    height: 500px;
+    margin-left: 60px
+  }
+
+  .h1 {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    color: #22356F;
+  }
+
+  .pteg {
+    line-height: 30px;
+    color: #22356F;
+    font-weight: 200;
+    width: 90%;
+  }
+
+  .blovkbeg {
+    width: 350px;
+    height: 500px;
+    margin-left: 20px;
+    position: relative;
+
+    .imgBg {
+      position: absolute;
+      top: -170px;
+      left: 128px;
+      width: 600px;
+      height: 550px;
+      z-index: -1;
+    }
+
+    .peopleDiv {
+      width: 610px;
+      height: 560px;
+
+      .imgBgPeople {
+        width: 600px;
+        height: 500px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 15px 0px rgba(191,194,151,1);
+
+      }
+    }
+  }
+}
+
+.neon_button {
+  width: 450px;
+  height: 80px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}

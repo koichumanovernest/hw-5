@@ -1,0 +1,232 @@
+.bala {
+  width: 425px;
+  height: 390px;
+}
+
+.balajan {
+  width: 425px;
+  height: 400px;
+ 
+}
+
+.dark_blu {
+  width: 425px;
+  height: 400px;
+  background-color: #22356F;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}
+
+.blue_btn {
+  width: 425px;
+  height: 400px;
+  background-color: #0052C1;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}
+
+.imgKlub {
+  width: 425px;
+  height: 400px;
+  background: url(../../assets/img/klubnika.png) center center / cover no-repeat;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}
+
+.aqua {
+  width: 425px;
+  height: 400px;
+  background-color: #62D0DF;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}
+
+.gray_btn {
+  width: 425px;
+  height: 400px;
+  background-color: #DEE1FF;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}
+
+.violet {
+  width: 425px;
+  height: 400px;
+  background-color: #8F00FF;
+  cursor: pointer;
+  &:hover{
+    border: 2px solid darkblue;
+  }
+  .blocks{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    border-bottom: 1px solid white;
+  }
+  .blockTwo{
+    width: 70%;
+    height: 55px;
+    margin: 5px auto;
+    border: none;
+    p{
+      font-size: 25px;
+      margin-top: 20px;
+      font-weight: 900;
+      color: white;
+      position: relative;
+      span{
+        font-size: 50px;
+        color: orange;
+        position: absolute;
+        top: -35px;
+        left: -30px;
+      }
+    }
+  }
+}

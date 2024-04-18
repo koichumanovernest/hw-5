@@ -1,0 +1,181 @@
+.place {
+  display: flex;
+
+  .pink {
+    background-color: #FFE2DE;
+    width: 319px;
+    height: 295px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    .bloc {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+      border-bottom: 1px solid white;
+
+    }
+
+    .blocs {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+
+      .ptegs {
+        font-size: 25px;
+        margin-top: 20px;
+        font-weight: 900;
+        color: white;
+        position: relative;
+
+        span {
+          font-size: 50px;
+          color: orange;
+          position: absolute;
+          top: -35px;
+          left: -30px;
+        }
+      }
+    }
+  }
+
+  .green {
+    background-color: #C4E769;
+    width: 319px;
+    height: 295px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    .bloc {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+      border-bottom: 1px solid white;
+    }
+
+    .blocs {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+
+      .ptegs {
+        font-size: 25px;
+        margin-top: 20px;
+        font-weight: 900;
+        color: white;
+        position: relative;
+
+        span {
+          font-size: 50px;
+          color: orange;
+          position: absolute;
+          top: -35px;
+          left: -30px;
+        }
+      }
+    }
+  }
+
+  .dark-blue {
+    background-color: #0052C1;
+    width: 319px;
+    height: 295px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      transform: translateY(-5px);
+
+    }
+
+    .bloc {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+      border-bottom: 1px solid white;
+    }
+
+    .blocs {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+
+      .ptegs {
+        font-size: 25px;
+        margin-top: 20px;
+        font-weight: 900;
+        color: white;
+        position: relative;
+
+        span {
+          font-size: 50px;
+          color: orange;
+          position: absolute;
+          top: -35px;
+          left: -30px;
+        }
+      }
+    }
+  }
+
+  .blue {
+    background-color: #62D0DF;
+    width: 319px;
+    height: 295px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    .bloc {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+      border-bottom: 1px solid white;
+    }
+
+    .blocs {
+      width: 70%;
+      height: 55px;
+      margin: 5px auto;
+      border: none;
+
+      .ptegs {
+        font-size: 25px;
+        margin-top: 20px;
+        font-weight: 900;
+        color: white;
+        position: relative;
+
+        span {
+          font-size: 50px;
+          color: orange;
+          position: absolute;
+          top: -35px;
+          left: -30px;
+        }
+      }
+    }
+  }
+}
+.box_card{
+  width: 360px;
+  height: 320px;
+}

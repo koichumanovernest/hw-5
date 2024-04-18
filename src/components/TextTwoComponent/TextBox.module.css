@@ -1,0 +1,13 @@
+.blochka{
+  width: 400px;
+  height: 250px;
+  h1{
+    color: var(--font-color);
+    margin: 20px 0 20px 0;
+    font-weight: 300;
+  }
+  p{
+    color: gray;
+    line-height: 30px;
+  }
+}
